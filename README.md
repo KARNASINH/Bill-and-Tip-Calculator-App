@@ -2,7 +2,7 @@
 # Bill-and-Tip-Calculator-App
 
 ## Introduction
-•	This IOS app can be used to calculate bill and tip. In this app user can enter bill amount and it will show default tip amount and user can use slider for the custom tip.
+•	This IOS app can be used to calculate bills and tips. In this app, the user can enter the bill amount and it will show the default tip amount and the user can use a slider for the custom tip.
 
 ## Project features
  1. As the user enters bill amount it will calcualte the tip amount.
