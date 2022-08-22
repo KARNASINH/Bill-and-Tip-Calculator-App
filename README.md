@@ -5,8 +5,8 @@
 •	This IOS app can be used to calculate bills and tips. In this app, the user can enter the bill amount and it will show the default tip amount and the user can use a slider for the custom tip.
 
 ## Project features
- 1. As the user enters bill amount it will calcualte the tip amount.
- 2. With the help of slider user can change the tip percentage and at the same time new tip amount will be reflected on the screen.
+1. As the user enters the bill amount it will calculate the tip amount.
+2. With the help of a slider user can change the tip percentage and at the same time, a new tip amount will be reflected on the screen.
  
 ## Programming Language and Technologies used
 
